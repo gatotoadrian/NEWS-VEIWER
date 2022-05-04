@@ -64,7 +64,7 @@ There's no complicated procedure to run the program;
 
 MIT License
 
-Copyright (c) [2022] [Collins07]
+Copyright (c) [2022] [gatotoadrian]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
